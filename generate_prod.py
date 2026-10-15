@@ -1,3 +1,5 @@
+import random
+import secrets
 import string
 
 PRODUCTOS = [
