@@ -1,3 +1,4 @@
+import random
 # 1. Enmascarar un correo electrónico
 def enmascarar_correo(correo):
     usuario, dominio = correo.split("@")
