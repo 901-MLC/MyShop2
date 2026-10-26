@@ -1,7 +1,7 @@
 # ESPACIO DE PRUEBA
-**
 
-##INSTRUCCIONES
+
+## INSTRUCCIONES
 
 1. Cada alumno revisará el repositorio y podrá:
    * Agregar un archivo con alguna propuesta
